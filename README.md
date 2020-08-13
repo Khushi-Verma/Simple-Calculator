@@ -5,4 +5,4 @@ This is a simple calculator functionality achieved using Javascript. The logic i
 - CSS [style/Presentation]
 -Javascript [Logic/Working of calculator]
 
-# https://khushi-verma.github.io/Simple-Calculator/index.html
+### https://khushi-verma.github.io/Simple-Calculator/index.html
