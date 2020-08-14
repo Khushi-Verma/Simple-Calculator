@@ -3,16 +3,26 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:600,700" rel="stylesheet">
 		<title>A simple calculator</title>
-  </head>
+	</head>
 	<body>
 		<div id="container">
 			<div id="calculator">
 				<div id="result">
-					<div id="history">
-						<p id="history-value"></p>
+					<div id="output-text">
+						<div id="history">
+							<p id="history-value"></p>
+						</div>
+						<div id="output">
+							<p id="output-value"></p>
+						</div>
 					</div>
-					<div id="output">
-						<p id="output-value"></p>
+					<div id="output-microphone">
+						<span id="microphone">
+						</span>
+						<span class="tooltip">Operations are plus, minus, multiply, divide &amp; reminder
+						The user input format is number + operation + number<br><br>
+						Eg: 2 multiply 5 will be 2 &times 5
+						</span>
 					</div>
 				</div>
 				<div id="keyboard">
