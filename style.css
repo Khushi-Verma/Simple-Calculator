@@ -27,7 +27,7 @@ body{
 	margin: 0 20px;
 	padding-top: 20px;
 	font-size: 15px;
-	color: lightgray;
+	color:darkblue;
 }
 #output{
 	text-align: right;
@@ -44,7 +44,6 @@ body{
 	height: 30px;
 	width: 30px;
 	float: right;
-	background-image: url(mic.png);
 	background-size: 100% 100%;
 	border-radius: 50%;
 	margin: 20px;
@@ -71,7 +70,7 @@ body{
 	width: 200px;
 	font-size: 9px;
 	position: absolute;
-	background-color: #dddddd;
+	background-color: blue;
 	color: #636363;
 	padding: 10px;
 	top: 45px;
